@@ -15,4 +15,4 @@ Week 3:
 Implemented boolean expressions and if statements.
 
 Week 4:
-Took a leap forward with learning about functions and function calls. Wrote functions and used built in fucntions.
+Took a leap forward with learning about functions and function calls. Defined my own function and used built in functions.
